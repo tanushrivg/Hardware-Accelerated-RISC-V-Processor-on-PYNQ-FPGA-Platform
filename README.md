@@ -48,11 +48,10 @@ This project aims to design and implement a **Hardware Accelerated RISC-V Proces
 
 - PYNQ Framework
 
-- Git & GitHub
+- Juypter Notebook
 
-- Vivado Simulator / ModelSim
+- Vivado Simulator
 
-- GTKWave
 
 ---
 
