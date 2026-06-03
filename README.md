@@ -89,9 +89,6 @@ This project aims to design and implement a **Hardware Accelerated RISC-V Proces
 
 ---
 
-
----
-
 ## Results
 
 - Successful RISC-V processor simulation.
