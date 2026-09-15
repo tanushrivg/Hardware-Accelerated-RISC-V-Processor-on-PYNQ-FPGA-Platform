@@ -36,7 +36,7 @@ This project aims to design and implement a **Hardware Accelerated RISC-V Proces
 
 - **Memory:** BRAM / DDR3
 
-- **Communication Interface:** AXI
+- **Communication Interface:** CFS
 
 ---
 
@@ -119,7 +119,7 @@ This project aims to design and implement a **Hardware Accelerated RISC-V Proces
 
 ## References
 
-### PicoRV32
+### NeoRV32
 
 https://github.com/YosysHQ/picorv32
 
