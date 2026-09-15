@@ -32,7 +32,7 @@ This project aims to design and implement a **Hardware Accelerated RISC-V Proces
 
 - **SoC:** Xilinx Zynq-7000
 
-- **Processor Core:** PicoRV32 (RV32I)
+- **Processor Core:** NEORV32
 
 - **Memory:** BRAM / DDR3
 
