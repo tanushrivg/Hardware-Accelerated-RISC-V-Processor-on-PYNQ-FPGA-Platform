@@ -13,7 +13,7 @@ This project aims to design and implement a **Hardware Accelerated RISC-V Proces
 
 - Develop a hardware accelerator for computation-intensive tasks.
 
-- Demonstrate hardware-software co-design using FPGA technology.
+- Demonstrate hardware-software co-design using the FPGA technology.
 
 - Analyze system performance through simulation and synthesis results.
 
